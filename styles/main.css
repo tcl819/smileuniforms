@@ -1,0 +1,107 @@
+body {
+  padding: 66px 60px;
+}
+
+.parallax-window {
+  min-height: 500px;
+  background: transparent;
+}
+
+.bottom-border {
+  border-bottom: 10px solid #B5D3D3;
+}
+
+.font-trebuchet {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.carousel-img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.test {
+  background: red;
+}
+
+.accordion-remove-padding {
+  padding: 4px 4px 4px 8px;
+}
+
+.card-body-remove-padding {
+  padding: 2px;
+}
+
+.add-bottom-padding {
+  padding: 0 0 10px 0;
+}
+
+.add-top-padding {
+  padding: 10px 0 0 0;
+}
+
+
+/*
+body {
+  margin: 0;
+}
+
+header {
+  background: gray;
+  color: white;
+  padding: 5px 15px;
+}
+
+header h1 {
+  margin: 0;
+  display: inline;
+}
+
+nav ul {
+  margin: 0;
+  display: inline;
+  padding-left: 15px;
+}
+
+nav ul li {
+  display: inline-block;
+  background: white;
+  list-style-type: none;
+  padding: 5px 10px;
+}
+
+.row:after{
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.col {
+  float: left;
+  background: #555;
+  margin: 10px 1%;
+  width: 29%;
+  border-radius: 10px;
+  padding: 5px 1%;
+}
+
+p {
+  color: white;
+  padding: 5px;
+
+  All
+  TopBottom LeftRight
+  Top Right Bottom Left
+
+}
+
+.secondary {      class
+  background: none;
+  color: red;
+}
+
+#nav {      id
+  color: green;
+}
+*/
