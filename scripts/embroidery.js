@@ -7,6 +7,7 @@ document.getElementById("colorPolo").onclick = function(){color()};
 document.getElementById("colorSweater").onclick = function(){color()};
 document.getElementById("colorBlazer").onclick = function(){color()};
 document.getElementById("size").onclick = function(){size()};
+document.getElementById("sizeTwo").onclick = function(){size()};
 document.getElementById("schoolPolo").onclick = function(){school()};
 document.getElementById("schoolSweater").onclick = function(){school()};
 document.getElementById("schoolBlazer").onclick = function(){school()};
